@@ -1,0 +1,5 @@
+package com.example.portfoliosauna.repository;
+
+public class FavoriteRepository {
+
+}

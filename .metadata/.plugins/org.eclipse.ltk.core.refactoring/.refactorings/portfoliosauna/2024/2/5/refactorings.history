@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;portfoliosauna/src/main/resources/templates/review&apos; を &apos;reviews&apos; に変更します" description="リソース &apos;review&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/review" name="reviews" stamp="1706752075712" updateReferences="true"/>
+</session>
